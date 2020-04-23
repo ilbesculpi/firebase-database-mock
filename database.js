@@ -1,8 +1,4 @@
 
-const createInMemoryDatabase = (data) => {
-    const database = new DatabaseMock(data);
-    return database;
-};
 
 
 class Snapshot {
@@ -90,6 +86,4 @@ class DatabaseMock {
 
 }
 
-module.exports = {
-    createInMemoryDatabase,
-};
+module.exports = DatabaseMock;
