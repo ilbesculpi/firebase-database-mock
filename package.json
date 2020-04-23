@@ -1,0 +1,19 @@
+{
+  "name": "firebase-database-mock",
+  "version": "0.1.0",
+  "description": "In-Memory database that simulates firebase api",
+  "repository": {
+    "url": "https://github.com/ilbesculpi/firebase-database-mock",
+    "type": "git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Ilbert Esculpi",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.5.0",
+    "jasmine-spec-reporter": "^5.0.1"
+  }
+}
