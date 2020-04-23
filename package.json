@@ -1,6 +1,6 @@
 {
   "name": "firebase-database-mock",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "In-Memory database that simulates firebase api",
   "repository": {
     "url": "https://github.com/ilbesculpi/firebase-database-mock",
